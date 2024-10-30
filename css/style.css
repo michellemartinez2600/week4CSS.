@@ -1,0 +1,86 @@
+* {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    text-align: left;
+    margin: 15px;
+    
+   
+}
+.sintony-regular {
+    font-family: "Sintony", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+header {
+
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+ section{
+    background-color: black;
+    color: whitesmoke;
+ }
+
+h1 {
+    color: rgb(170, 46, 170);
+    text-align: center;
+
+}
+
+
+img {
+    float: right;
+    
+  }
+
+p {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: whitesmoke;
+
+}
+
+aside{
+  
+        background-image: url(../assets/concert.jpg)    
+}
+
+div { 
+    
+    color: black;
+    background-color: rgb(230, 157, 223);
+    opacity: 0.8;
+   
+
+}
+
+article {
+    background-color: rgb(230, 157, 223);
+    
+}
+
+body {
+    text-align: justify;
+}
+
+h5{
+    font-size: large;
+    color: black;
+    position: relative;
+  left: 30px;
+  border: 3px solid purple;
+}
+
+
+ h6{
+   
+    font-size: large;
+    position: relative;
+  left: 30px;
+  border: 3px solid purple;
+ }
